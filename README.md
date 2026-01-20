@@ -1,6 +1,6 @@
 # Challenge Alura Store
 
-Este repositorio contiene el cuaderno **`AluraStoreLatam.ipynb`** que analiza el desempeño de cuatro tiendas de la cadena *Alura Store* en Latinoamérica a partir de datos abiertos en CSV. El objetivo es obtener indicadores rápidos de facturación, ventas por categoría, satisfacción de clientes y logística.
+Este repositorio contiene el cuaderno **`Challenge_AluraStore.ipynb`** que analiza el desempeño de cuatro tiendas de la cadena *Alura Store* en Latinoamérica a partir de datos abiertos en CSV. El objetivo es obtener indicadores rápidos de facturación, ventas por categoría, satisfacción de clientes y logística.
 
 ## 📌 Contenido
 
